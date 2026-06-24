@@ -16,6 +16,9 @@ This lab builds a fully functional **Active Directory (AD)** environment from sc
 Active Directory is the most widely deployed identity platform in enterprise IT. It is also the **most targeted system in ransomware and lateral movement attacks.** Knowing how to build it means knowing how to defend it.
 
 ---
+🎬 Watch Me Build This Lab!
+https://www.loom.com/share/5f9f0cc1bea64d6fb0532b79d5ac0b78
+---
 
 ## Architecture
 
