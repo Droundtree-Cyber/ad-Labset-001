@@ -1,4 +1,4 @@
-# Lab 01 — Active Directory & Identity Management
+# Active Directory & Identity Management
 > **Windows Server 2025 · Azure Free Account · Identity & Access Management**
 
 ![Platform](https://img.shields.io/badge/Platform-Windows%20Server%202025-0078D4?style=flat-square&logo=windows)
